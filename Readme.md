@@ -1,14 +1,14 @@
 ## What is MedTrack?
 
-MedTrack is a Tcl8.6.7 program to help users manage their prescribed medications.
+MedTrack is a Tcl 8.6.7 program to help users manage their legally, prescribed medications.
 
-Having to be legally prescribed, regular medications is a burden, and having to track the supply, use and reordering of these medications is further burden, on top of the existing health issues.
+Having to be legally prescribed, regular medications is a burden, and having to track the supply, use and reordering of these medications is a further burden that at times can be very frustrating and concerning.
 
 MedTrack aims to make this process, a little easier.
 
 ## How does Medtrack work?
 
-MedTrack works by initially recording your current medication variables, such as:
+MedTrack works by initially inputting the medication details, such as:
 
 * Medicine start date
 * Medicine name
@@ -17,21 +17,21 @@ MedTrack works by initially recording your current medication variables, such as
 * Amount of medicine per dose
 * Quantity issued by the Pharmacy
 * Number of repeat prescriptions (If any)
-* Recommended date of reissue/reorder
 * Calculated days of supply
+* Recommended date of reissue/reorder
 
 ## Who can use MedTrack?
 
 * Anyone who is legally prescribed medications
-* Anyone who supports such a person, volunteer or for profit
+* Anyone who supports such a person, either as a volunteer or for profit
 
 ## What is Medtrack's goal?
 
-The initial goal is to:
+The initial goal is to develop:
 
-* Develop a Command Line Interface program for GNU/Linux desktops; open SQLite3 Database
+* A Command Line Interface program for GNU/Linux desktops, with an open SQLite3 Database
 
-The subsequent goals are to develop, in order:
+The subsequent goals are to develop (In order):
 
 * A Graphic User Interface program for GNU/Linux desktops, with an open SQLite3 Database
 * A Graphic User Interface program for GNU/Linux desktops, with a secure SQLite3 Database
@@ -44,7 +44,6 @@ The subsequent goals are to develop, in order:
 
 * Clone the repository
 * Use it
-* Hack it
 * Make it better, faster, stronger
 * Suggest a new feature
 * Submit a pull request
