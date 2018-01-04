@@ -27,13 +27,16 @@ MedTrack works by initially recording your current medication variables, such as
 
 ## What is Medtrack's goal?
 
-The goals are initially as follows:
+The initial goal is to:
 
-* Command Line Interface (CLI) program for GNU/Linux desktops; open SQLite3 Database
-* Graphic User Interface (GUI) program for GNU/Linux desktops; open SQLite3 Database
-* Graphic User Interface (GUI) program for GNU/Linux desktops; secure SQLite3 Database
-* Graphic User Interface (GUI) program for Windows 64Bit desktops; open SQLite3 Database
-* Web Application version; on a GNU/Linux Server/Virtual Machine; Cloud-based; Web API
+* Develop a Command Line Interface program for GNU/Linux desktops; open SQLite3 Database
+
+The subsequent goals are to develop, in order:
+
+* A Graphic User Interface program for GNU/Linux desktops, with an open SQLite3 Database
+* A Graphic User Interface program for GNU/Linux desktops, with a secure SQLite3 Database
+* A Graphic User Interface program for Windows 64Bit desktops, with an open SQLite3 Database
+* A Web Application version; on a GNU/Linux Server/Virtual Machine; Cloud-based; Web API
 * Mobile device version [?]
 * Embedded device version [?]
 
