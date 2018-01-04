@@ -12,7 +12,7 @@ MedTrack works by initially inputting the medication details, such as:
 
 * Medicine start date
 * Medicine name
-* Quantity of a medicines on hand (If any)
+* Quantity of medicine on hand (If any)
 * Daily dose required
 * Amount of medicine per dose
 * Quantity issued by the Pharmacy
