@@ -1,6 +1,6 @@
 ## What is MedTrack?
 
-MedTrack is a Tcl 8.6.7 program to help users manage their legally, prescribed medications.
+MedTrack is a program to help users manage their legally, prescribed medications.
 
 Having to be legally prescribed, regular medications is a burden, and having to track the supply, use and reordering of these medications is a further burden that at times can be very frustrating and concerning.
 
